@@ -1,2 +1,2 @@
 # herokuPrueba
-Primera clase MIMO con Heroku
+Primera clase MIMO con Heroku desde git
